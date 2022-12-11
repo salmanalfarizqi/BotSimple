@@ -1,7 +1,7 @@
 streamlit
 re
 random
-webbrowser
+pycopy-webbrowser
 datetime
 wikipedia
 pywhatkit
