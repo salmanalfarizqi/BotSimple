@@ -1,5 +1,5 @@
-streamlit
-pycopy-webbrowser
+streamlit==1.15.2
+pycopy-webbrowser==0.0.0
 datetime
-wikipedia
-pywhatkit
+wikipedia==1.4.0
+pywhatkit==5.4
