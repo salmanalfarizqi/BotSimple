@@ -1,0 +1,7 @@
+streamlit
+re
+random
+webbrowser
+datetime
+wikipedia
+pywhatkit
