@@ -1,5 +1,5 @@
 streamlit
-re
+re==3.11.1
 random
 pycopy-webbrowser
 datetime
