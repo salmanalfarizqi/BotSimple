@@ -1,4 +1,0 @@
-streamlit==1.15.2
-datetime
-wikipedia==1.4.0
-pywhatkit==5.4
